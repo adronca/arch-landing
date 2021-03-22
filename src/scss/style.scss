@@ -1,0 +1,16 @@
+@font-face {
+	font-family: 'SF-Display'; 
+	src: url('fonts/ofont.ru_SF UI Display.ttf') format('truetype'); 
+}
+
+body {
+  font-family: 'SF-Display' !important;
+
+  a {
+    text-decoration: none;
+  }
+}
+
+@import 'parts/header.scss';
+
+// #
